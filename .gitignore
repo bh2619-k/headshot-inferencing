@@ -1,0 +1,23 @@
+# Common
+**/*.md
+LICENSE
+.env
+
+# git
+.git
+.gitattributes
+
+# JetBrains
+.idea
+
+# Python
+__pycache__/
+
+# Virtual environments
+.venv/
+
+# VScode
+.vscode
+
+# Test
+test_input.json

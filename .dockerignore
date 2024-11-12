@@ -1,0 +1,30 @@
+# Common
+**/*.md
+LICENSE
+.env
+
+# Docker
+Dockerfile
+.docker
+.dockerignore
+docker-compose.yml
+
+# git
+.git
+.gitattributes
+.gitignore
+
+# JetBrains
+.idea
+
+# Python
+__pycache__/
+
+# Virtual environments
+.venv/
+
+# VScode
+.vscode
+
+# Test
+test_input.json
