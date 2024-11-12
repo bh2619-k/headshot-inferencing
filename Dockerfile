@@ -9,7 +9,7 @@ WORKDIR /
 ADD . .
 
 # Install packages
-RUN pip install runpod torch diffusers boto3
+RUN pip install -r requirements.txt
 
 # Call your file when your container starts
 CMD [ "python", "./index.py" ]

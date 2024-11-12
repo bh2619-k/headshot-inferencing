@@ -86,7 +86,7 @@ def inferencing(job):
             base64_images.append(base64_image)
 
         return base64_images
-    
+
     except Exception as e:
         print(f"Error during inference: {e}")
         return []
