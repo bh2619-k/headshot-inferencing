@@ -1,6 +1,4 @@
-# Common
-**/*.md
-LICENSE
+# env
 .env
 
 # git
@@ -18,6 +16,3 @@ __pycache__/
 
 # VScode
 .vscode
-
-# Test
-test_input.json
