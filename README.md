@@ -10,6 +10,8 @@
 
 ## How to run
 
+### Test on local
+
 ```bash
 $ sudo nano test_input.json
 ```
@@ -30,13 +32,11 @@ $ sudo nano test_input.json
 }
 ```
 
-#### Test on local
-
 ```bash
 $ python index.py
 ```
 
-#### Deploy to runpod
+### Deploy to runpod
 
 - Build docker image and push to docker hub.
 
