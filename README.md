@@ -10,6 +10,8 @@
 
 ## How to run
 
+### Rename .env.example to .env and set up values
+
 ### Test on local
 
 ```bash
